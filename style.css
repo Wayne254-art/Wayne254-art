@@ -1,0 +1,27 @@
+/* style.css */
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+
+header {
+    text-align: center;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin: 0 auto; /* Center the image */
+}
+
+/* Add more styling as needed */
